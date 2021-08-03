@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.sites', #for auth
 
     'feed',
+    'profiles',
     'allauth',    #for auth also
     'allauth.account',
     'allauth.socialaccount',
